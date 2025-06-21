@@ -4,7 +4,7 @@ const PollView = () => {
 
     return(
         <div>
-            <h1>Host Session</h1>
+            <h1>Poll View</h1>
         </div>
     )
 }
